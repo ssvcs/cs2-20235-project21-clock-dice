@@ -1,0 +1,4 @@
+3
+die/die-10.txt
+die/die-12.txt
+die/die-20.txt
