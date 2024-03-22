@@ -1,9 +1,9 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Dice dice-10.txt 3 9" type="Application" factoryName="Application">
+  <configuration default="false" name="Dice 42 35 6 6" type="Application" factoryName="Application">
     <option name="ALTERNATIVE_JRE_PATH" value="liberica-21" />
     <option name="MAIN_CLASS_NAME" value="puzzles.dice.Dice" />
     <module name="ClockDice" />
-    <option name="PROGRAM_PARAMETERS" value="dice-10.txt 3 9" />
+    <option name="PROGRAM_PARAMETERS" value="42 35 6 6" />
     <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data/dice" />
     <extension name="coverage">
       <pattern>

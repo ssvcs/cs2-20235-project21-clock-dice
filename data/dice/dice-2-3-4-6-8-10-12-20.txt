@@ -1,9 +1,0 @@
-8
-die/die-2.txt
-die/die-3.txt
-die/die-4.txt
-die/die-6.txt
-die/die-8.txt
-die/die-10.txt
-die/die-12.txt
-die/die-20.txt
