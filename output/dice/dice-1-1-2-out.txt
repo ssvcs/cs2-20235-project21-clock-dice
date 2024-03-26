@@ -1,5 +1,4 @@
-File: puzzles.solver.dice-2.txt
-Die #0: File: die/die-2.txt, Faces: 2
+Die #0: File: die-2.txt, Faces: 2
 	1=[2]
 	2=[1]
 Start: 1, End: 1

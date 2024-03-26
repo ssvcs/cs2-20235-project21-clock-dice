@@ -1,5 +1,4 @@
-File: puzzles.solver.dice-12.txt
-Die #0: File: die/die-12.txt, Faces: 12
+Die #0: File: die-12.txt, Faces: 12
 	0=[1, 2, 6, 8]
 	1=[0, 7, 9, A]
 	2=[0, 6, 8, B]

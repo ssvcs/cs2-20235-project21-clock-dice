@@ -1,5 +1,4 @@
-File: puzzles.solver.dice-20.txt
-Die #0: File: die/die-20.txt, Faces: 20
+Die #0: File: die-20.txt, Faces: 20
 	0=[8, C, H]
 	1=[7, C, I]
 	2=[B, H, J]
